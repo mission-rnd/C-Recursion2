@@ -1,5 +1,5 @@
-﻿Build started 10/18/2017 6:22:13 PM.
-     1>Project "E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\src\src.vcxproj" on node 2 (Build target(s)).
+﻿Build started 10/18/2017 11:34:44 PM.
+     1>Project "C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\src\src.vcxproj" on node 2 (Rebuild target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DLL_BST.cpp IdentifyKid.cpp magicTool.cpp MainRecursion2.cpp MergeBSTs.cpp NewYork.cpp SaveMary.cpp
          SaveMary.cpp
@@ -11,16 +11,16 @@
          DLL_BST.cpp
          Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\Debug\src.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\Debug\src.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\Debug\src.lib" /MACHINE:X86 Debug\DLL_BST.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\Debug\src.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\Debug\src.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\Debug\src.lib" /MACHINE:X86 Debug\DLL_BST.obj
          Debug\IdentifyKid.obj
          Debug\magicTool.obj
          Debug\MainRecursion2.obj
          Debug\MergeBSTs.obj
          Debug\NewYork.obj
          Debug\SaveMary.obj
-         src.vcxproj -> E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\Debug\src.exe
-     1>Done Building Project "E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\src\src.vcxproj" (Build target(s)).
+         src.vcxproj -> C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\Debug\src.exe
+     1>Done Building Project "C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\src\src.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:04.36
+Time Elapsed 00:00:01.68

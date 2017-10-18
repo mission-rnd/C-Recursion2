@@ -1,8 +1,8 @@
-﻿Build started 10/18/2017 6:23:32 PM.
-     1>Project "E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\spec\spec.vcxproj" on node 2 (Build target(s)).
+﻿Build started 10/18/2017 11:34:49 PM.
+     1>Project "C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\spec\spec.vcxproj" on node 2 (Build target(s)).
      1>Link:
-         spec.vcxproj -> E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\Debug\spec.dll
-     1>Done Building Project "E:\Juniors\MrndProject\dump\Rec2_student\Recursion2\spec\spec.vcxproj" (Build target(s)).
+         spec.vcxproj -> C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\Debug\spec.dll
+     1>Done Building Project "C:\Projects\MrndProjects\AllCProjects_Github\C-Recursion2\spec\spec.vcxproj" (Build target(s)).
 
 Build succeeded.
 
